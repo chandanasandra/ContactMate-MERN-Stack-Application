@@ -2,7 +2,7 @@ import { Box } from "@chakra-ui/react";
 import { Route, Routes } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import CreateContactPage from "./pages/CreateContactPage";
-import NavBar from "./components/customComponents/NavBar";
+import NavBar from "./components/customComponents/Navbar";
 import Account from "./pages/Account";
 import LoginPage from "./pages/LoginPage";
 import RegistrationPage from "./pages/RegistrationPage";
